@@ -59,11 +59,11 @@ There are 35 lowercase words.
 There are 3 numeric strings.
 The sum of all the numbers 1000.
 LEN| OCCURRENCES |NR.
-1 |\* |1
+1 |* |1
 2 |** |2
-3 |\*** |3
-4 |**\*** |5
-5 |\***\* |4
+3 |*** |3
+4 |***** |5
+5 |**** |4
 6 |** |2
 ```
 
