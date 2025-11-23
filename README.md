@@ -49,20 +49,23 @@ The program contains three texts, each used for analysis.
 
 ## Example Output
 
-After selecting a text, the program shows basic statistics and a word length histogram:  
-There are 42 words in the selected text.  
-There are 5 titlecase words.  
-There are 2 uppercase words.  
-There are 35 lowercase words.  
-There are 3 numeric strings.  
-The sum of all the numbers 1000.  
-LEN| OCCURRENCES |NR.  
-1 |\* |1  
-2 |** |2  
-3 |\*** |3  
-4 |**\*** |5  
-5 |\***\* |4  
+After selecting a text, the program shows basic statistics and a word length histogram:
+
+```
+There are 42 words in the selected text.
+There are 5 titlecase words.
+There are 2 uppercase words.
+There are 35 lowercase words.
+There are 3 numeric strings.
+The sum of all the numbers 1000.
+LEN| OCCURRENCES |NR.
+1 |\* |1
+2 |** |2
+3 |\*** |3
+4 |**\*** |5
+5 |\***\* |4
 6 |** |2
+```
 
 - `LEN` → word length
 - `OCCURRENCES` → visual representation with `*`
